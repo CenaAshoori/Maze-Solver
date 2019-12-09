@@ -1,7 +1,8 @@
 # Maze-Solver
 
 
-this maze move to 7(8-1(previos position)) direction
+this maze move to 8 direction
+also 8-1(perveios position)
 
 for run this maze solver you first of all you need to download it and after that u need to addresing to a file
 that you save your maze by
@@ -30,8 +31,8 @@ and runtime
 
 
 
-Note: you just need to change the dirctory of the text file that i addres it in my maze solver.py file   
-change it in to your own file and enjoy it  
+Note: you just need to change the dirctory of the text file that i addres it in my maze solver.py   
+change it in to your own text file and enjoy it  
 
 :D have good luck  
 bypy
