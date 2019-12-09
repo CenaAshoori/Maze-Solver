@@ -11,20 +11,27 @@ this format:
 
 the format of your text file :
 --------------------
-3
+3  
+0 0 0  
+0 0 0  
 0 0 0
-0 0 0
-0 0 0
---------------------
-4
-0 0 1 0
-0 1 0 0
-0 0 0 0
-1 1 0 0
---------------------
-after that you run it 
-the result is **best dir** + and the sum of **founded dirs**
-and runtime 
+  
+--------------------  
+4  
+0 0 1 0  
+0 1 0 0  
+0 0 0 0  
+1 1 0 0 
+  
+--------------------  
+after that you run it  
+the result is **best dir** + and the sum of **founded dirs**  
+and runtime   
 
-:D have good luck
+
+
+Note: you just need to change the dirctory of the text file that i addres it in my maze solver.py file   
+change it in to your own file and enjoy it  
+
+:D have good luck  
 bypy
