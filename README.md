@@ -34,6 +34,6 @@ and runtime
 Note: you just need to change the dirctory of the text file that i addres it in my maze solver.py   
 change it in to your own text file and enjoy it  
 
-:D have good luck  
+:D good luck  
 bypy
   
