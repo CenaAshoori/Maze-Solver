@@ -2,7 +2,7 @@
 
 
 this maze move to 8 direction
-also 8-1(perveios position)
+also 8-1(previous position)
 
 for run this maze solver you first of all you need to download it and after that u need to addresing to a file
 that you save your maze by
