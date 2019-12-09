@@ -188,7 +188,7 @@ while(True):
         col += 1
         mat[row][col].setDir(mat)
         # moving up Right
-    elif row+1 <r and col-1>=0 and mat[row+1][col-1].val and mat[row][col].dirs[3]==1and not mat[row+1][col-1].isVisited():
+    elif row+1 <r and col-1>=0 and mat[row+1][col-1].val and mat[row][col].dirs[3]==1 and not mat[row+1][col-1].isVisited():
         # print("==" * 7, "\n", row, col)
         # print("Down Left")
         stack.append(mat[row][col])
@@ -254,3 +254,4 @@ else :
     print("NO DIRECTION !!")
 new_time=datetime.datetime.now()
 print("RunTime:",int(new_time.minute)-int(time.minute),":",int(new_time.second)-int(time.second),":",float(new_time.microsecond)-float(time.microsecond))
+
